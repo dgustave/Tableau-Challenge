@@ -1,0 +1,24 @@
+This is  based between September 23, 2019 - December 22, 2019 (Fall):
+
+Average Trip Durations: 
+The Average time by minutes from each Start Station shows you how long a rider 
+uses the bike rental. This is also broken down by gender. Shown as area under multiple 
+lines to display quantitative gender data by time usage. Map based on start time 
+(filtered by gender and starttime)
+
+Customer vs. Subscriber: 
+The Key differences by gender and time spent on bike. Displayed as horizontal stacked bar
+chart. The stacked bar graph is also seperated by category. 
+
+Average Trip duration and number of trips for each gender across time 
+Number of Trips for Peak hours: 
+The average trips taken druring fall was displayed as a heat graph to show the peak times and days to ride 
+with Citibike. On Average Friday was the best day to ride and on weekdays 8 AM had the most cyclist. 
+
+Track your favorite bike: 
+I used a bike Id and tracked its last location by endtime and appended the last station as a label. Sometimes
+people are superstituos and love to use the same thing over and over again. 
+
+Average Trip by ages: 
+What age groups ride the most. You want to know if your hobby is age appropiate or 
+a healthy choice. Overall there is a variety of age groups that use bike in NYC: 
